@@ -1,5 +1,5 @@
 <template>
-  <h1>🌐 Pinia 跨元件共享資料示範1</h1>
+  <h1>🌐 Pinia 跨元件共享資料示範</h1>
   <CounterA />
   <CounterB />
 </template>
